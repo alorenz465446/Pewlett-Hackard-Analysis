@@ -7,5 +7,5 @@ Create a relational database for employee inofmration with an entity relational 
 
 ## Results
 
-
+1549 people eligible to mentor 
 ## Summary
