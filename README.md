@@ -41,3 +41,9 @@ These csv files can give more details on who and why are eligible:
 ### Resources
 * PostgreSQL
 * PgAdmin
+* CSV files: [departments.csv](https://github.com/alorenz465446/Pewlett-Hackard-Analysis/files/9263728/departments.csv)
+[dept_emp.csv](https://github.com/alorenz465446/Pewlett-Hackard-Analysis/files/9263729/dept_emp.csv)
+[dept_manager.csv](https://github.com/alorenz465446/Pewlett-Hackard-Analysis/files/9263730/dept_manager.csv)
+[employees.csv](https://github.com/alorenz465446/Pewlett-Hackard-Analysis/files/9263731/employees.csv)
+[salaries.csv](https://github.com/alorenz465446/Pewlett-Hackard-Analysis/files/9263732/salaries.csv)
+[titles.csv](https://github.com/alorenz465446/Pewlett-Hackard-Analysis/files/9263735/titles.csv)
