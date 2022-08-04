@@ -1,4 +1,6 @@
 -- Employee_Database_Challenge.sql
+-- Retirement query
+
 SELECT e.emp_no, e.first_name, e.last_name, t.title, t.from_date, t.to_date
 into retirement_titles
 From employees as e
@@ -8,6 +10,7 @@ inner join titles as t
 Where (e.birth_date Between ('1952-01-01') and ('1955-12-31'))
 Order by e.emp_no
 ;
+
 
 -- Use Dictinct with Orderby to remove duplicate rows
 SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
@@ -25,3 +28,7 @@ into retiring_titles
 From unique_titles as ut
 group by ut.title
 order by count desc;
+
+
+-- Mentorship eligibility query 
+
