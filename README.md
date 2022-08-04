@@ -32,7 +32,7 @@ Prepare management for the “silver tsunami” as many current employees reach 
 The amount of poistions that need to be refilled by retiring staff is roughly 30,398. In my analysis I found out that only 1,549 employees are eleigible to mentor. That is not enough to support the next generation of Pewlett Hackard employees.
 
 
-#### These csv files can give more details on who and why are eligible
+These csv files can give more details on who and why are eligible:
 * [mentorship_eligibility.csv](https://github.com/alorenz465446/Pewlett-Hackard-Analysis/files/9263632/mentorship_eligibility.csv)
 * [retiring_titles.csv](https://github.com/alorenz465446/Pewlett-Hackard-Analysis/files/9263633/retiring_titles.csv)
 
