@@ -8,11 +8,6 @@ Prepare management for the “silver tsunami” as many current employees reach 
 
 ## Results
 
-#### Entity Relation Diagram 
-
-![ERD_PH-EmployeeDB](https://user-images.githubusercontent.com/107652317/182962643-f1d5f375-2e04-4e2b-bf97-78df7f5e8186.png)
-
-
 
 #### Employees that will be retiring 
 
@@ -28,6 +23,10 @@ Prepare management for the “silver tsunami” as many current employees reach 
 
 * Senior Staff and regular Engineers are mostly who is eligible for the menotrship program
 * Assistant Engineers have the least amount of people available to mentor
+
+#### Entity Relation Diagram 
+
+![ERD_PH-EmployeeDB](https://user-images.githubusercontent.com/107652317/182962643-f1d5f375-2e04-4e2b-bf97-78df7f5e8186.png)
 
 ## Summary
 The amount of poistions that need to be refilled by retiring staff is roughly 30,398. In my analysis I found out that only 1,549 employees are eleigible to mentor. That is not enough to support the next generation of Pewlett Hackard employees.
