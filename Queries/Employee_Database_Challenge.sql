@@ -47,5 +47,5 @@ inner join titles as ti
 	on (e.emp_no = ti.emp_no)
 where de.to_date = '9999-01-01'
 and e.birth_date between '1965-01-01' and '1965-12-31'
-order by emp_no
+order by emp_no;
 
