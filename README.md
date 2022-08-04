@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview 
-Prepare management for the “silver tsunami” as many current employees reach retirement age. I will create a relational database for employee inofmration with an entity relational diagram. Making my queries meet with the deliverables reuirements wanted by manegement. 
+Prepare management for the “silver tsunami” as many current employees reach retirement age. I will create a relational database for employee inofmration with an entity relational diagram. Making my queries meet with the deliverables wanted by manegement. 
 ### Delivering:
 * The Number of Retiring Employees by Title
 * The Employees Eligible for the Mentorship Program
